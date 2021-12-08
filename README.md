@@ -1,4 +1,4 @@
-### Telegram UserInfo bot.
+# Telegram UserInfo bot.
 [ENG] A bot for getting a user's ID/Username/First Name via Forwarded Messages.
 
 [ESP] Un bot para conseguir la ID/Nombre de usuario/Primer nombre por medio de mensajes reenviados.
@@ -38,7 +38,7 @@ E inicias el bot con el siguiente comando en la consola:
 ```
 node index.js
 ```
-# Token Creation / Creación de Token 
+## Token Creation / Creación de Token 
 
 [ENG] - For creating a Token you need to first create a bot in Telegram. To create it, you need to go to the [BotFather Link](https://telegram.me/BotFather) and execute the /newbot command, and give it a name and a mention username.
 
