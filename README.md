@@ -3,6 +3,8 @@
 
 [ESP] Un bot para conseguir la ID/Nombre de usuario/Primer nombre por medio de mensajes reenviados.
 
+Este es el código fuente de un bot de Telegram, el cual se puede utilizar por medio de este link: [Enlace de invitación al bot.](http://t.me/informacion_de_usuarios_bot)
+
 ## Installation. / Instalación.
 [ENG] First of all, you need Node.JS v14 or later for this bot, so go to nodejs.org and Download the LTS version that's available, and install it.
 
