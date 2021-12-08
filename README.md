@@ -38,6 +38,12 @@ E inicias el bot con el siguiente comando en la consola:
 ```
 node index.js
 ```
-# Creación de Token 
+# Token Creation / Creación de Token 
 
-Unfinished Explanation
+[ENG] - For creating a Token you need to first create a bot in Telegram. To create it, you need to go to the [BotFather Link](https://telegram.me/BotFather) and execute the /newbot command, and give it a name and a mention username.
+
+Then, it will give you the link to chat with the bot, and the token.
+
+[ESP] - Para crear un Token necesitas el crear un bot en Telegram. Para crearlo, necesitas ir al [Link de BotFather](https://telegram.me/BotFather) y ejecutas el comando /newbot, tendrás que decirle el nombre y un username para menciones.
+
+Entonces, te dará el link para chatear y el token del bot.
