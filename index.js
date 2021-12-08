@@ -1,6 +1,8 @@
 const {Telegraf} = require('telegraf')
 
 
+const token = "your-token-here"
+
 
 const bot = new Telegraf(token) // Token tutorial in Readme.MD
 /*
